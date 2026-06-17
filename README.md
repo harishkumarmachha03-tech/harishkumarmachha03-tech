@@ -18,7 +18,7 @@
 
 <br/>
 
-<a href="https://github.com/harish03-tech">
+<a href="https://github.com/harishkumarmachha03-tech">
   <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/harishhk03">
@@ -27,15 +27,15 @@
 <a href="mailto:harishkumarmachha03@gmail.com">
   <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/harish03-tech">
+<a href="https://github.com/harishkumarmachha03-tech">
   <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harish03-tech&style=flat-square&color=6d28d9&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/harish03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
-<img src="https://img.shields.io/github/stars/harish03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=harishkumarmachha03-tech&style=flat-square&color=6d28d9&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/harishkumarmachha03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
+<img src="https://img.shields.io/github/stars/harishkumarmachha03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
 
 </div>
 
@@ -129,7 +129,7 @@ A fully offline Android application that delivers real-time audio navigation for
 | **Performance** | 10+ FPS on budget smartphones (₹17,000 devices) via ONNX export |
 | **Security** | Zero-internet, fully on-device inference — no data leaves the device |
 | **Impact** | ~90% accessibility hardware cost reduction vs. commercial solutions |
-| **Repository** | [`View Project →`](https://github.com/harish03-tech) |
+| **Repository** | [`View Project →`](https://github.com/harishkumarmachha03-tech) |
 
 Built a YOLOv8n model trained on COCO with India-specific hazard classes, optimized to ONNX for real-time on-device inference. Integrated ML Kit OCR and Android TTS for Telugu, Hindi, Tamil and more, enabling zero-internet accessibility at scale.
 
@@ -149,7 +149,7 @@ An AI-powered code-analysis platform delivering real-time bug detection and opti
 | **Performance** | Automated Big-O complexity estimation via Python AST |
 | **Security** | Sandboxed multi-language execution via Judge0 API + Docker |
 | **Impact** | Reduces manual debugging effort for DSA learners |
-| **Repository** | [`View Project →`](https://github.com/harish03-tech) |
+| **Repository** | [`View Project →`](https://github.com/harishkumarmachha03-tech) |
 
 Engineered a RAG pipeline with FAISS for semantic problem retrieval and LLM-driven analysis via Ollama. Enabled secure, concurrent, multi-language code execution showcasing robust software engineering principles.
 
@@ -169,7 +169,7 @@ An AI-powered adaptive quiz platform with dynamic difficulty adjustment based on
 | **Performance** | Real-time performance analytics dashboard |
 | **Security** | Secure API-driven content delivery |
 | **Impact** | Empowers educators to track learning trends and optimize curriculum |
-| **Repository** | [`View Project →`](https://github.com/harish03-tech) |
+| **Repository** | [`View Project →`](https://github.com/harishkumarmachha03-tech) |
 
 Built with Next.js featuring dynamic difficulty adjustment, voice and text inputs, AI-driven feedback, and a real-time analytics dashboard for educators.
 
@@ -189,7 +189,7 @@ A real-time Indian Sign Language to English caption system as a Chrome extension
 | **Performance** | Real-time continuous sentence recognition via velocity-based boundary detection |
 | **Security** | Browser-native, no installation barriers |
 | **Impact** | Enables natural communication for the deaf community in video calls |
-| **Repository** | [`View Project →`](https://github.com/harish03-tech) |
+| **Repository** | [`View Project →`](https://github.com/harishkumarmachha03-tech) |
 
 Developed continuous sentence recognition with an LLM grammar corrector converting ISL gloss order into natural English, paired with multilingual Text-to-Speech in Telugu, Hindi, and Tamil — delivering simultaneous visual captions and spoken audio.
 
@@ -287,12 +287,12 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harish03-tech&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6d28d9&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harish03-tech&theme=react&hide_border=true&background=0d1117&ring=a78bfa&fire=6d28d9&currStreakLabel=a78bfa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumarmachha03-tech&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6d28d9&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumarmachha03-tech&theme=react&hide_border=true&background=0d1117&ring=a78bfa&fire=6d28d9&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish03-tech&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumarmachha03-tech&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -306,7 +306,7 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harish03-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=harishkumarmachha03-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -320,7 +320,7 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harish03-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumarmachha03-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true" />
 
 </div>
 
@@ -334,7 +334,7 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harish03-tech/harish03-tech/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/harishkumarmachha03-tech/harishkumarmachha03-tech/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -382,10 +382,10 @@ Harish Kumar Machha:
 <a href="https://linkedin.com/in/harishhk03">
   <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/harish03-tech">
+<a href="https://github.com/harishkumarmachha03-tech">
   <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/harish03-tech">
+<a href="https://github.com/harishkumarmachha03-tech">
   <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
