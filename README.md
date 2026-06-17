@@ -4,38 +4,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:0d9488,100:10b981&height=220&section=header&text=Harish%20Kumar%20Machha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:6d28d9&height=220&section=header&text=Harish%20Kumar%20Machha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=AI-Integrated+Software+Engineer;Computer+Vision+%26+NLU+Specialist;Full+Stack+Developer;Distributed+Systems+Enthusiast;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI-Integrated+Software+Engineer;Computer+Vision+%26+NLU+Specialist;Full+Stack+Developer;Distributed+Systems+Enthusiast;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CS%20%26%20Data%20Science-0d9488?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/GPA-8.29-115e59?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20Hyderabad-India-14b8a6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/B.Tech-CS%20%26%20Data%20Science-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/GPA-8.29-4c1d95?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/📍%20Hyderabad-India-7c3aed?style=for-the-badge" />
 
 <br/>
 
 <a href="https://github.com/harishkumarmachha03-tech">
-  <img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/harishhk03">
-  <img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:harishkumarmachha03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/harishkumarmachha03-tech">
-  <img src="https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harishkumarmachha03-tech&style=flat-square&color=0d9488&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/harishkumarmachha03-tech?style=flat-square&color=0d9488&labelColor=042f2e&logo=github" />
-<img src="https://img.shields.io/github/stars/harishkumarmachha03-tech?style=flat-square&color=0d9488&labelColor=042f2e&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=harishkumarmachha03-tech&style=flat-square&color=6d28d9&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/harishkumarmachha03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
+<img src="https://img.shields.io/github/stars/harishkumarmachha03-tech?style=flat-square&color=6d28d9&labelColor=1a0033&logo=github" />
 
 </div>
 
@@ -243,14 +243,14 @@ Self-directed engineering of production-grade AI applications spanning computer 
 ## 📜 Certifications
 
 #### Oracle
-<img src="https://img.shields.io/badge/Oracle%20OCI%202025-Generative%20AI%20Professional-14b8a6?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20OCI-Foundation%20Associate-0d9488?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20OCI%202025-Generative%20AI%20Professional-7c3aed?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20OCI-Foundation%20Associate-6d28d9?style=flat-square&logo=oracle&logoColor=white" />
 
 #### Salesforce
-<img src="https://img.shields.io/badge/Salesforce-AgentForce%20Specialist-115e59?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-AgentForce%20Specialist-4c1d95?style=flat-square&logo=salesforce&logoColor=white" />
 
 #### Data Analytics
-<img src="https://img.shields.io/badge/Complete%20Data%20Analyst-Bootcamp-14b8a6?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Complete%20Data%20Analyst-Bootcamp-7c3aed?style=flat-square&logo=databricks&logoColor=white" />
 
 ---
 
@@ -287,12 +287,12 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumarmachha03-tech&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=0d9488&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumarmachha03-tech&theme=highcontrast&hide_border=true&background=0d1117&ring=2dd4bf&fire=10b981&currStreakLabel=2dd4bf" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumarmachha03-tech&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6d28d9&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumarmachha03-tech&theme=react&hide_border=true&background=0d1117&ring=a78bfa&fire=6d28d9&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumarmachha03-tech&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumarmachha03-tech&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -306,7 +306,7 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harishkumarmachha03-tech&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=harishkumarmachha03-tech&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -320,7 +320,7 @@ Self-directed engineering of production-grade AI applications spanning computer 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumarmachha03-tech&theme=high-contrast&hide_border=true&bg_color=0d1117&color=2dd4bf&line=0d9488&point=ffffff&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumarmachha03-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true" />
 
 </div>
 
@@ -377,16 +377,16 @@ Harish Kumar Machha:
 <div align="center">
 
 <a href="mailto:harishkumarmachha03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/harishhk03">
-  <img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/harishkumarmachha03-tech">
-  <img src="https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/harishkumarmachha03-tech">
-  <img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -401,6 +401,6 @@ Harish Kumar Machha:
 
 > *"Engineering AI that sees, speaks, and empowers — building software that turns accessibility into a default, not a privilege."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0d9488,100:042f2e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0033&height=120&section=footer" />
 
 </div>
